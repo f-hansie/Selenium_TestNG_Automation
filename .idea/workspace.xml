@@ -5,9 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71973aa9-4b9d-412a-98a3-7c9e3621d309" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/log4j/log4j-test-automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/log4j/log4j-test-automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/tests/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files/testdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers/chromedriver97" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers/chromedriver97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/Files/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/Files/testdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Grouping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/browsers/chromedriver97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProv_SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProv_SeleniumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TestCase1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TestCase1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/excelUtils/ExcelUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/excelUtils/ExcelUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/AnnotationTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/AnnotationTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/Retry.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/Retry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/TestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/JSErrorLogs.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/JSErrorLogs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/Log.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +57,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers" />
+      <recent name="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
