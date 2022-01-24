@@ -4,3 +4,25 @@
 [INFO ] 2022-01-24 13:09:12.608 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
 [INFO ] 2022-01-24 13:09:12.611 [main] Log - Opening N11 Website.
 [INFO ] 2022-01-24 13:09:13.505 [main] Log - Closing the page
+[INFO ] 2022-01-24 21:58:57.450 [main] Log - Tests is starting!
+[INFO ] 2022-01-24 22:00:53.183 [main] Log - Tests is starting!
+[INFO ] 2022-01-24 22:02:34.619 [main] Log - Tests is starting!
+[INFO ] 2022-01-24 22:02:47.601 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-01-24 22:02:47.629 [main] Log - Opening sauce demo website.
+[INFO ] 2022-01-24 22:02:50.105 [main] Log - Going to Login Page..
+[INFO ] 2022-01-24 22:02:50.166 [main] Log - Trying to login the N11 with Excel data.
+[INFO ] 2022-01-24 22:02:50.604 [main] Log - Verifying login username.
+[INFO ] 2022-01-24 22:02:50.761 [main] Log - Verifying login password.
+[INFO ] 2022-01-24 22:02:50.839 [main] Log - Saving test results.
+[INFO ] 2022-01-24 22:02:50.985 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-01-24 22:02:50.985 [main] Log - Opening sauce demo website.
+[INFO ] 2022-01-24 22:02:51.119 [main] Log - Going to Login Page..
+[INFO ] 2022-01-24 22:02:51.123 [main] Log - Trying to login the N11 with Excel data.
+[INFO ] 2022-01-24 22:02:51.629 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-01-24 22:02:51.662 [main] Log - Saving test results.
+[INFO ] 2022-01-24 22:02:51.789 [main] Log - validLoginTest_ValidUserAndValidPassword test is starting.
+[INFO ] 2022-01-24 22:02:51.790 [main] Log - Opening sauce demo website.
+[INFO ] 2022-01-24 22:02:51.934 [main] Log - Going to Login Page..
+[INFO ] 2022-01-24 22:02:51.949 [main] Log - Trying to login the N11 with Excel data.
+[INFO ] 2022-01-24 22:02:52.545 [main] Log - Verifying login username.
+[INFO ] 2022-01-24 22:02:52.708 [main] Log - Closing the page

@@ -1,7 +1,6 @@
 package pages;
 
 import io.qameta.allure.Step;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import utils.logs.Log;
 
@@ -14,17 +13,17 @@ public class HomePage extends BasePage {
     }
 
     /**Variables*/
-    String baseURL = "http://www.n11.com/";
+    String baseURL = "https://www.saucedemo.com/";
 
 
     /**Web Elements*/
-    By signInButtonClass = By.className("btnSignIn");
+//    By signInButtonClass = By.className("btnSignIn");
 
     /**Page Methods*/
     //Go to Homepage
-    @Step("Open N11 Step...")
+    @Step("Open Sauce Demo Step...")
     public HomePage goToN11() {
-        Log.info("Opening N11 Website.");
+        Log.info("Opening sauce demo website.");
         driver.get(baseURL);
         return this;
     }
@@ -33,7 +32,7 @@ public class HomePage extends BasePage {
     @Step("Go to Login Page Step...")
     public LoginPage goToLoginPage() {
         Log.info("Going to Login Page..");
-        click(signInButtonClass);
+        // click(signInButtonClass);
         return new LoginPage(driver);
     }
 }

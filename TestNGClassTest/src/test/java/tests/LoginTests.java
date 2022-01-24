@@ -56,4 +56,22 @@ public class LoginTests extends BaseTest{
                 .verifyLoginPassword(ExcelUtil.getCellData(2, 4))
                 .saveTestResults(2, 5);
     }
+
+    @Test(priority = 0, description = "Valid Login Scenario with valid username and password.")
+    @Severity(SeverityLevel.CRITICAL)
+    @Description("Test Description: Login test with valid username and valid password.")
+    @Story("Valid username and password login test")
+    public void validLoginTest_ValidUserAndValidPassword(Method method) {
+        //ExtentReports Description
+        startTest(method.getName(), "Valid Login Scenario with valid username and password.");
+        Log.info(method.getName() + " test is starting.");
+
+        homePage
+                .goToN11()
+                .goToLoginPage()
+                .loginToN11WithExcelData(ExcelUtil.getRowData(3))
+                .verifyValidUserNameAndPassword(ExcelUtil.getCellData(3, 1))
+                .verifyValidUserNameAndPassword(ExcelUtil.getCellData(3, 2))
+                .saveTestResults(3, 5);
+    }
 }

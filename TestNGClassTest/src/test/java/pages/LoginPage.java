@@ -22,11 +22,15 @@ public class LoginPage extends BasePage {
     /**
      * Web Elements
      */
-    By userNameIdBy                = By.id("email");
+    By userNameIdBy                = By.id("user-name");
     By passwordIdBy                = By.id("password");
-    By loginButtonIdBy             = By.id("loginButton");
-    By errorMessageUsernameXpathBy = By.xpath("//*[@id=\"loginForm\"]/div[1]/div/div");
-    By errorMessagePasswordXpathBy = By.xpath("//*[@id=\"loginForm\"]/div[2]/div/div ");
+    By loginButtonIdBy             = By.id("login-button");
+    By errorMessageUsernameXpathBy = By.cssSelector("[data-test='error']");
+    By errorMessagePasswordXpathBy = By.cssSelector("[data-test='error']");
+    By successfulLogin             = By.xpath("//*[contains(text(),'Products')]");
+
+
+
 
     /**
      * Page Methods
@@ -71,7 +75,16 @@ public class LoginPage extends BasePage {
     @Step("Verify logError: {0} step...")
     public LoginPage verifyLogError() {
         Log.info("Verifying javascript login errors.");
-        Assert.assertTrue(JSErrorLogs.isLoginErrorLog(driver));
+        Assert.assertFalse(JSErrorLogs.isLoginErrorLog(driver));
+        return this;
+    }
+
+    //Verify valid Username and Password Condition
+    @Step("Verify username: {0} step...")
+    public LoginPage verifyValidUserNameAndPassword(String expectedText) {
+        Log.info("Verifying login username.");
+        waitVisibility(successfulLogin);
+        assertEquals(readText(successfulLogin), expectedText);
         return this;
     }
 
