@@ -1,0 +1,6 @@
+[INFO ] 2022-01-24 13:08:31.244 [main] Log - Tests is starting!
+[INFO ] 2022-01-24 13:08:45.157 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-01-24 13:08:45.197 [main] Log - Opening N11 Website.
+[INFO ] 2022-01-24 13:09:12.608 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-01-24 13:09:12.611 [main] Log - Opening N11 Website.
+[INFO ] 2022-01-24 13:09:13.505 [main] Log - Closing the page
