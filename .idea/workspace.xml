@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71973aa9-4b9d-412a-98a3-7c9e3621d309" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TestNGClassTest/TestsNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/log4j/log4j-test-automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/log4j/log4j-test-automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/java/tests/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/Files/testdata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers/chromedriver97" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/src/test/resources/browsers/chromedriver97" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/Files/testdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/Files/testdata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Grouping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/attributes/dependsOn/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/browsers/chromedriver97" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProv_SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProv_SeleniumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/dataProvider/DataProviderTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC2.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TC2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TestCase1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/testNGLearning/testNGTests/TestCase1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/extent 2.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/tests/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/excelUtils/ExcelUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/excelUtils/ExcelUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/extentReports/ExtentTestManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/AnnotationTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/AnnotationTransformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/Retry.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/Retry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/listeners/TestListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/JSErrorLogs.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/JSErrorLogs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGClassTest/target/test-classes/utils/logs/Log.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +43,24 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/hansiemaphanga/Documents/Selenium_TestNG_Automation/TestNGClassTest/TestsNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allurereportexample" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGClassTest/TestsNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -86,7 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG./Users/hansiemaphanga/Documents/Selenium_TestNG_Automation/TestNGClassTest/TestsNG.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -100,5 +83,16 @@
       <updated>1643027898733</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
